@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fsJA81MMl75qKSv1bNusPcbLFIpv1iFEI3vtnec337w=",
+  "Source": "StockTrackingApp.API",
+  "BasePath": "_content/StockTrackingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

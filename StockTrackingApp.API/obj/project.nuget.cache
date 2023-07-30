@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zl27/SmOqi58jF4we60FwwGGOYxNRXMgN1xrRUzOEHLnKGFitNXw4uy1ryUeHHhbucUqqQmG201SiW4tOyjR7w==",
+  "dgSpecHash": "uXrO3oRInKeyBF+E61iS5NuxX8cH/DcldAYq4kHipQpVDfvp5EFMzttgx3m7F91csoBqxE43oMW1fw8PPrjVag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\StockTrackingApp.API\\StockTrackingApp.API.csproj",
+  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp.API\\StockTrackingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fato\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fato\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3g7NP5HP/pzVsiJqLEdJDOXF0lMZkaZkydThYV1xPKJlX2PCA+k6MuMboEmaWcKxIMsJvsCDxkXMcskYSoUdw==",
+  "dgSpecHash": "m+i+xXUVvaEo/ZDxnzoxtcn0mFje8e+1cejLtFKRf5ZOX0dy3yRaRz9VMvn/ir4mRncW006mODDTn7LhrWHh8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fato\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fato\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",

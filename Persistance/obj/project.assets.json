@@ -3437,11 +3437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Persistance\\StockTrackingApp.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Persistance\\StockTrackingApp.Persistance.csproj",
       "projectName": "StockTrackingApp.Persistance",
-      "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Persistance\\StockTrackingApp.Persistance.csproj",
+      "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Persistance\\StockTrackingApp.Persistance.csproj",
       "packagesPath": "C:\\Users\\fato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Persistance\\obj\\",
+      "outputPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3463,11 +3463,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Application\\StockTrackingApp.Application.csproj": {
-              "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Application\\StockTrackingApp.Application.csproj"
+            "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Application\\StockTrackingApp.Application.csproj": {
+              "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Application\\StockTrackingApp.Application.csproj"
             },
-            "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Domain\\StockTrackingApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Domain\\StockTrackingApp.Domain.csproj"
+            "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Domain\\StockTrackingApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Domain\\StockTrackingApp.Domain.csproj"
             }
           }
         }

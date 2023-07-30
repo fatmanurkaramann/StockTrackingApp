@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpkPpEgViJ6XjeMsOb7c3JTfaRbzqqcc/3bOxK7L9DHvSIgfCD7PK0sxVgo5qiWwK4kXXGAUZBFMKWiLE7YOZg==",
+  "dgSpecHash": "uCIixLkFV7zaadKxj5GmruHlqkEqNMQOVxd0rptMi013bVcdBdNyGVJYN8klGGMvv9BNEjC9UV99tec7i80gLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Domain\\StockTrackingApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Domain\\StockTrackingApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fato\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\fato\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

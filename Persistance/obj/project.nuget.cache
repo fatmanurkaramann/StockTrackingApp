@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ei7Sh9+H5IDqV3afgPoIQdjaNBs6jijcVtiWN92g19k7Ouy4VPY3fXweozMBoZyatbAsFIDbKgBJXcBB88nsVA==",
+  "dgSpecHash": "v4kBqRfoq8E9OmFbB0/TigU2B29GOfR5GoZvmYOGjFiuPGXfND6jqrrY83NMJYGwEz8OU6MGOLMzMjkP81/Nfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\ConsoleApp1\\Persistance\\StockTrackingApp.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\Persistance\\StockTrackingApp.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fato\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fato\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

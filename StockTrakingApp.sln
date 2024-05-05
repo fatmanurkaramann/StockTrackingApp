@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F44294B8-62DE-4222-B82A-98DDDD75CF53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "ConsoleApp1\Console.csproj", "{F44294B8-62DE-4222-B82A-98DDDD75CF53}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{833A3B5B-F8FB-4647-8326-0CA5ECC0B666}"
 EndProject
@@ -11,15 +11,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infastructure", "Infastruct
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{54FEBA73-2257-45F6-AA70-95FB53584D3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingApp.Application", "Application\StockTrackingApp.Application.csproj", "{AFEE3265-7044-4D6D-8FB4-8BA41BCAF78F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackingApp.Application", "Application\StockTrackingApp.Application.csproj", "{AFEE3265-7044-4D6D-8FB4-8BA41BCAF78F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingApp.Domain", "Domain\StockTrackingApp.Domain.csproj", "{87CE5094-8E5D-4D5B-AF35-ED1A3828E8BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackingApp.Domain", "Domain\StockTrackingApp.Domain.csproj", "{87CE5094-8E5D-4D5B-AF35-ED1A3828E8BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingApp.Infastructure", "Infastructure\StockTrackingApp.Infastructure.csproj", "{6D57597D-18DC-4385-B5E5-928BCB53619E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackingApp.Infastructure", "Infastructure\StockTrackingApp.Infastructure.csproj", "{6D57597D-18DC-4385-B5E5-928BCB53619E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingApp.Persistance", "Persistance\StockTrackingApp.Persistance.csproj", "{9C4483CF-CC64-431C-B5B3-410B45DA82BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackingApp.Persistance", "Persistance\StockTrackingApp.Persistance.csproj", "{9C4483CF-CC64-431C-B5B3-410B45DA82BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTrackingApp.API", "StockTrackingApp.API\StockTrackingApp.API.csproj", "{AC2B7C28-2DD3-47AE-A043-9EE15BFEDDC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTrackingApp.API", "StockTrackingApp.API\StockTrackingApp.API.csproj", "{AC2B7C28-2DD3-47AE-A043-9EE15BFEDDC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C90AE88-54BF-4433-B400-98961868C508}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

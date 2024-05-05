@@ -2188,9 +2188,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\Console.csproj",
+      "projectName": "Console",
+      "projectPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\Console.csproj",
       "packagesPath": "C:\\Users\\fato\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fato\\Desktop\\Yazılım\\C#\\StockTrackingApp\\StockTrackingApp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -2254,7 +2254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.421\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,3 +17,11 @@ C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Persistance\obj\
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Persistance\obj\Debug\net6.0\ref\StockTrackingApp.Persistance.dll
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Persistance\bin\Debug\net6.0\StockTrackingApp.Application.dll
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Persistance\bin\Debug\net6.0\StockTrackingApp.Application.pdb
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\refint\StockTrackingApp.Persistance.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Persistance\obj\Debug\net6.0\StockTrackingApp.Persistance.pdb

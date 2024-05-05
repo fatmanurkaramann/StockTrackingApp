@@ -10,3 +10,15 @@ C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Domain\obj\Debug
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Domain\obj\Debug\net6.0\refint\StockTrackingApp.Domain.dll
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.pdb
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\Domain\obj\Debug\net6.0\ref\StockTrackingApp.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\bin\Debug\net6.0\StockTrackingApp.Domain.deps.json
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\bin\Debug\net6.0\StockTrackingApp.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\bin\Debug\net6.0\StockTrackingApp.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\refint\StockTrackingApp.Domain.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\StockTrackingApp.Domain.pdb
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\Domain\obj\Debug\net6.0\ref\StockTrackingApp.Domain.dll

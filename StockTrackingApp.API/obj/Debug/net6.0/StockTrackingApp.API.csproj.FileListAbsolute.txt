@@ -81,3 +81,13 @@ C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\StockTrackingApp
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\StockTrackingApp.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\StockTrackingApp.API\bin\Debug\net6.0\StockTrackingApp.Infastructure.dll
 C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\ConsoleApp1\StockTrackingApp.API\bin\Debug\net6.0\StockTrackingApp.Infastructure.pdb
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\refint\StockTrackingApp.API.dll
+C:\Users\fato\Desktop\Yazılım\C#\StockTrackingApp\StockTrackingApp\StockTrackingApp.API\obj\Debug\net6.0\StockTrackingApp.API.pdb
